@@ -1,2 +1,2 @@
 # FibonacciTDD
- Fibonaccie sequence program with Test driven development
+ Fibonacci sequence program with Test driven development
